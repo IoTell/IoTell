@@ -1,0 +1,7 @@
+xxhash
+numpy
+scipy
+bitstring
+bitarray
+matplotlib
+seaborn
