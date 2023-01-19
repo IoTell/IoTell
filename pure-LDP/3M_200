@@ -1,0 +1,29 @@
+OLH :  373.70096492767334
+RAPPOR :  49.561089277267456
+CMS :  108.99133539199829
+200 200 201
+
+
+Experiment run on a dataset of size 3000000 with d= 200 and epsilon= 4 
+
+Optimised Local Hashing (OLH) Variance:  236753.48
+RAPPOR Variance:  18440665.407583572
+Apple CMS Variance: 597445.791422563
+
+
+Note: We round estimates to the nearest integer
+OLH :  126.83348798751831
+OLH :  126.9682149887085
+RAPPOR :  29.558079957962036
+CMS :  75.4042067527771
+200 200 201
+
+
+Experiment run on a dataset of size 1000000 with d= 200 and epsilon= 4 
+
+Optimised Local Hashing (OLH) Variance:  86899.645
+RAPPOR Variance:  581603.4548231704
+Apple CMS Variance: 165140.76583156432
+
+
+Note: We round estimates to the nearest integer

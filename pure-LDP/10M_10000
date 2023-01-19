@@ -1,0 +1,17 @@
+/home/null/.local/lib/python3.6/site-packages/sklearn/linear_model/_coordinate_descent.py:532: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations. Duality gap: 13192737314.072708, tolerance: 483290970.8081885
+  positive)
+OLH :  3422.213095664978
+OLH :  3422.2361690998077
+RAPPOR :  150.99146914482117
+CMS :  2948.559224128723
+10000 10000 10001
+
+
+Experiment run on a dataset of size 10000000 with d= 10000 and epsilon= 4 
+
+Optimised Local Hashing (OLH) Variance:  788466.3100097345
+RAPPOR Variance:  33461921.72124884
+Apple CMS Variance: 2193513.6458457806
+
+
+Note: We round estimates to the nearest integer
